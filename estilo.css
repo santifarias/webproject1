@@ -14,8 +14,8 @@ body{
 .container{
     margin: auto;
     background-color: lavender;
-    max-width: fit-content
-    width: 100%px;
+    max-width: fit-content;
+    width: 100px;
     padding: 30px;
   }
   
